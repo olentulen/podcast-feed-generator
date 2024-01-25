@@ -17,7 +17,7 @@ This project was inspired by the PHP script for generating RSS feeds by @vsoch, 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/podcast-feed-generator.git
+    git clone https://github.com/olentulen/podcast-feed-generator.git
     ```
 2. Navigate to the project directory:
     ```bash
